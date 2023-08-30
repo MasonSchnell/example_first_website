@@ -10,3 +10,14 @@ h1 span {
   text-align: center;
   background: blue;
 }
+
+p {
+  color: green;
+  text-align: left;
+  font-family: "Courier New", Courier, monospace;
+  background: white;
+  width: 300px;
+  border: 15px gray;
+  padding: 10px;
+  margin: 10px;
+}
